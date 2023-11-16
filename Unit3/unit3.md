@@ -32,7 +32,8 @@ public ip를 주소창에 쳤을 때 나타난 화면
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
-
+![image](https://github.com/sso0711/2023-Server-Study/assets/74605283/296802af-29c7-4fb7-9c4d-cbe89b872a59)
+vscode에서 ssh접속이 되지 않아 aws 웹 상에서 인스턴스에 연결
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
